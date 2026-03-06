@@ -16,7 +16,7 @@ const beltColors = {
   'blue': Color(0xFF3A86FF),
   'purple': Color(0xFF9B5DE5),
   'brown': Color(0xFF8B4513),
-  'black': Color(0xFF555555),
+  'black': Color(0xFF2A2020),
 };
 
 const beltDotColors = [
