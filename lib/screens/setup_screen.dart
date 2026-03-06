@@ -24,7 +24,7 @@ const beltDotColors = [
   Color(0xFF3A86FF),
   Color(0xFF9B5DE5),
   Color(0xFF8B4513),
-  Color(0xFFAAAAAA),
+  Color(0x3E2A2A3E),
 ];
 
 class SetupScreen extends StatefulWidget {
