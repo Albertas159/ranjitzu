@@ -3,6 +3,8 @@ workflows:
     name: iOS App Store Release
     max_build_duration: 60
     environment:
+      groups:
+        - Key
       flutter: stable
       xcode: latest
       cocoapods: default
