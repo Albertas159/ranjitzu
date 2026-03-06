@@ -44,3 +44,15 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 android/key.properties
+
+# Android signing
+android/key.properties
+*.jks
+*.keystore
+
+# iOS
+ios/Flutter/flutter_export_environment.sh
+
+# Environment/secrets
+.env
+*.env
